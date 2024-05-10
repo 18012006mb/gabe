@@ -19,5 +19,18 @@ body{
 .titulo-principal{
 font-family: var(--roboto-mono);
 
+}
+
+.titulo-principal{
+font-family: var(--roboto-mono);
+font-size:32px;
+}
+
+.titulo-secundario{
+     font-size: 24px;
+}ss
+
+.conteudo-titulo{
+ textess
 
 }
